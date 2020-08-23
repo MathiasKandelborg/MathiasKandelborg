@@ -6,16 +6,15 @@
 
 I make processor go _brrrrr_
 
-I love new, unique 🌠 and exciting 🤯 things, so I made a web framework containing as many of those as possible 😄
+---
+
+I also love new, unique 🌠 and exciting 🤯 things, so I made a web framework containing as many of those as possible 😄
 
 [TRUE === The Really (really) Exciting & Unique - Framework](https://github.com/MathiasKandelborg/TRUE)
 
 TRUE is the most amazing thing you will ever experience, anyone that says otherwise, are obviously lying...
 
 I'm not the one lying, i would never lie. I made a framework called TRUE, how could I ever make up a lie?
-
----
-
 
 <!--
 **MathiasKandelborg/MathiasKandelborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
