@@ -1,4 +1,4 @@
-### Hi, I like to code
+### Hi, I love open source so much I stream it @NeonRayTracer
 
 - 😄 Pronouns: he/him - they/them
 - 😲 Standard specifications are awesome. It's almost like if everyone used them; everything would be easier.
