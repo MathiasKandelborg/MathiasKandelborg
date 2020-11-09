@@ -1,4 +1,4 @@
-### Hi, I love open source so much I stream it [@NeonRayTracer](twitch.tv/neonraytracer/)
+### Hi, I love open source so much I stream it [@NeonRayTracer](https://twitch.tv/neonraytracer/)
 
 - 😄 Pronouns: he/him - they/them
 - 😲 Standard specifications are awesome. It's almost like if everyone used them; everything would be easier.
