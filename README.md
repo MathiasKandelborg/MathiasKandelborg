@@ -3,6 +3,7 @@
 - 😄 Pronouns: he/him - they/them
 - 😲 Standard specifications are awesome. It's almost like if everyone used them; everything would be easier.
 - ⚡ Fun fact: Facts are rarely as factual as this one.
+- Another not so fun fact: SystemD is bad, if you can avoid it, please do, and please have fisticuff with me if you think it's any good!
 
 I make processor go _brrrrr_
 
