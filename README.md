@@ -11,7 +11,7 @@ I make processor go _brrrrr_
 
 I also love new, unique 🌠 and exciting 🤯 things, so I made a web framework containing as many of those as possible 😄
 
-[TRUE === The Really (really) Exciting & Unique - Framework](https://github.com/MathiasKandelborg/TRUE)
+[TRUE === The Really (really) Exciting & Unique - Framework](https://true-framework.vercel.app/)
 
 TRUE is the most amazing thing you will ever experience, anyone that says otherwise, are obviously lying...
 
