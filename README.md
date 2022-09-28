@@ -1,11 +1,11 @@
 ### Hi, I love open source so much I stream it [@NeonRayTracer](https://twitch.tv/neonraytracer/)
 
-- Back from hiatus, I got too stressed; I've calmed down and have actionable things to mitigate burn-out again <3
+- Back from hiatus, what should I work on, maybe your repo? 🤔
 
 - 😄 Pronouns: he/him - they/them
 - 😲 Standard specifications are awesome. It's almost like if everyone used them; everything would be easier.
 - ⚡ Fun fact: Facts are rarely as factual as this one.
-- 🤭 Another not so fun fact: SystemD is very bad; if you can avoid it, please do, and please have fisticuff with me if you think it's any good!
+- 🤭 Another not so fun fact: SystemD is very bad; proper alternatives are non-existent
 
 I make processor go _brrrrr_
 
@@ -15,7 +15,7 @@ I also love new, unique 🌠 and exciting 🤯 things, so I made a web framework
 
 [TRUE === The Really (really) Exciting & Unique - Framework](https://true-framework.vercel.app/)
 
-TRUE is the most amazing thing you will ever experience, anyone that says otherwise, are obviously lying... it's called TRUE
+This framework is the most amazing thing you will ever experience... it's TRUE
 
 
 <!--
