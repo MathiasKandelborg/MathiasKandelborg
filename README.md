@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him - they/them
 - 😲 Standard specifications are awesome. It's almost like if everyone used them; everything would be easier.
 - ⚡ Fun fact: Facts are rarely as factual as this one.
-- 🤭 Another not so fun fact: SystemD is very bad; proper alternatives are non-existent
+- 🤭 Another not so fun fact: SystemD is very bad; Use Gentoo instead 🕶️ 💜
 
 I make processor go _brrrrr_
 
