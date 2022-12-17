@@ -1,34 +1,22 @@
-### Hi, I love open source so much I stream it [@NeonRayTracer](https://twitch.tv/neonraytracer/)
+# Open Source Wizard 🌠🧙‍♂️
 
-- Back from hiatus, what should I work on, maybe your repo? 🤔
+Greetings! I'm an open source enthusiast with a strong passion for creating and sharing projects with the world. If you're looking for someone who can code circles around the competition and conjure up some serious magic, you've come to the right place. You can also follow my progress and insights on my [Twitch](https://twitch.tv/neonraytracer/) stream.
 
-- 😄 Pronouns: he/him - they/them
-- 😲 Standard specifications are awesome. It's almost like if everyone used them; everything would be easier.
-- ⚡ Fun fact: Facts are rarely as factual as this one.
-- 🤭 Another not so fun fact: SystemD is very bad. Use Gentoo instead 😎💜
+A few things about me: 
+- My pronouns are he/him and they/them. 
+- I'm a huge fan of standard specifications. They make it so much easier to work with other developers and create high-quality software.
+- Fun fact: With just a flick of my wand (okay, a few lines of code), I can bring ideas and projects to life. It's a magical process, and I love using my skills to make things happen.
+- Not-so-fun fact: As much as I love Linux, I have to admit that SystemD can be a bit of a pain sometimes. If you're looking for a more reliable init system, I recommend giving OpenRC a try.
+- I am using Linux almost exclusively and have dedicated a lot of time and effort to improving my skills and knowledge in the field.
+- I'm from Denmark and always excited to share my knowledge and experiences with others in the open source community.
 
-I make processor go _brrrrr_
+I'm always up for a challenge and I love creating new and exciting projects. So come join me and let's create some magic together!
 
----
-
-I also love new, unique 🌠 and exciting 🤯 things, so I made a web framework containing as many of those as possible 😄
-
-[TRUE === The Really (really) Exciting & Unique - Framework](https://true-framework.vercel.app/)
-
-This framework is the most amazing thing you will ever experience... it's TRUE
-
-
-<!--
-**MathiasKandelborg/MathiasKandelborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-
--->
+Here's a little verse I like:
+>The world is full of endless possibility,
+>
+>A tapestry of cultures and diversity,
+>
+>We all have our own unique story,
+>
+>But we can all find ways to connect and glory.
