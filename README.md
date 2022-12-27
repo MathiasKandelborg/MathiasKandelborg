@@ -12,7 +12,7 @@ A few things about me:
 
 I'm always up for a challenge and I love creating new and exciting projects. So come join me and let's create some magic together!
 
-Here's a little verse I like:
+Here's a little verse I like, it was made from my request with an AI:
 >The world is full of endless possibility,
 >
 >A tapestry of cultures and diversity,
