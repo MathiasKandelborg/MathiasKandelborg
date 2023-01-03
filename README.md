@@ -3,7 +3,7 @@
 Greetings! I'm an open source enthusiast with a strong passion for creating and sharing projects with the world. If you're looking for someone who can code circles around the competition and conjure up some serious magic, you've come to the right place. You can also follow my progress and insights on my [Twitch](https://twitch.tv/neonraytracer/) stream.
 
 A few things about me: 
-- My pronouns are he/him and they/them. 
+- I'm currently trying to be the world's best competetive programmer: [LeetCode profile](https://leetcode.com/neonraytracer/)
 - I'm a huge fan of standard specifications. They make it so much easier to work with other developers and create high-quality software.
 - Fun fact: With just a flick of my wand (okay, a few lines of code), I can bring ideas and projects to life. It's a magical process, and I love using my skills to make things happen.
 - Not-so-fun fact: As much as I love Linux, I have to admit that SystemD can be a bit of a pain sometimes. If you're looking for a more reliable init system, I recommend giving OpenRC a try.
